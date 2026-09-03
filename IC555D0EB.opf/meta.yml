@@ -1,0 +1,27 @@
+id: IC555D0EB
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-37
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས། །
+  author: མཛད་པ་པོ། འབའ་མདའ་ཐུབ་བསྟན་དགེ་ལེགས།
+  authors: &id001
+  - མཛད་པ་པོ། འབའ་མདའ་ཐུབ་བསྟན་དགེ་ལེགས།
+  sku: RDI-KK-37
+  cover: RDI-KK-37.jpeg
+  volume: {}
+ebook_metadata:
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས། །
+  authors: *id001
+  sku: RDI-KK-37
+  cover: RDI-KK-37.jpeg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Footnote
+- Sabche
+- Tsawa
+- Yigchung
